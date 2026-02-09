@@ -41,6 +41,7 @@ More detailed notes including the empathy map is inside `dev log.pfd`
 
 WASD
 - Move
+
 Left Mouse Click
 - Shoot
 
