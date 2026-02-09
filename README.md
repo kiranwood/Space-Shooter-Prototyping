@@ -37,6 +37,13 @@ More detailed notes including the empathy map is inside `dev log.pfd`
 
 **Step 3** Repeat for each prototype
 
+### Controls
+
+WASD
+- Move
+Left Mouse Click
+- Shoot
+
 ## Sprite Credits
 
 - kenney.nl
